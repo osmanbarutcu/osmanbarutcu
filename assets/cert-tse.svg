@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="74" viewBox="0 0 440 74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" role="img" aria-label="TSE Kayıtlı Sızma Testi Uzmanı">
+<rect x="1" y="1" width="438" height="72" rx="10" fill="#282a36" stroke="#44475a" stroke-width="1.5"/>
+<rect x="1" y="1" width="6" height="72" rx="3" fill="#ff79c6"/>
+<text x="26" y="31" font-size="15" font-weight="700" fill="#f8f8f2">TSE Kayıtlı Sızma Testi Uzmanı</text>
+<text x="26" y="53" font-size="12" fill="#6272a4">TSE · Türk Standardları Enstitüsü</text>
+<text x="420" y="43" font-size="12" fill="#ff79c6" text-anchor="end">doğrula ↗</text>
+</svg>
