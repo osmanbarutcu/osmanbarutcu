@@ -1,23 +1,75 @@
-### Hi there, I'm Osman.💻
-#### Cyber Security Researcher | Software Developer
-#
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=BD93F9&background=282A3600&center=true&vCenter=true&width=700&lines=Osman+BARUTCU;Cyber+Security+Researcher;Siber+G%C3%BCvenlik+Analiz+Uzman%C4%B1;Software+Developer;Building+secure+digital+solutions" alt="Typing SVG" />
 
+![Durum](https://img.shields.io/badge/durum-%C3%A7evrimi%C3%A7i-50FA7B?style=for-the-badge&labelColor=282A36)
+![Odak](https://img.shields.io/badge/odak-siber%20g%C3%BCvenlik-BD93F9?style=for-the-badge&labelColor=282A36)
+![Konum](https://img.shields.io/badge/konum-T%C3%BCrkiye-FF79C6?style=for-the-badge&labelColor=282A36)
 
-#### Reach out me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/osmanbarutcu) 
-[![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=whidth:20px%20for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-barutcu-598680178/) 
- [![Website Badge](https://img.shields.io/badge/Website-1f425f.svg?style=flat&logo=appveyor&logoColor=white)](https://osmanbarutcu.com/)
-#
-#### Wakatime
-<a href="https://wakatime.com/@6ba994e3-114d-4d7c-b183-9e7f02abef86"><img src="https://wakatime.com/badge/user/6ba994e3-114d-4d7c-b183-9e7f02abef86.svg" alt="Total time coded since Jan 28 2023" /></a>
-#
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-#### 💻Tech I use
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-<br>
-<br>
-<br>
+</div>
 
+```console
+osman@secure:~$ whoami
+osman-barutcu · cyber security researcher & software developer
+siber güvenlik analiz uzmanı · Isparta Üniversitesi mezunu
+
+osman@secure:~$ cat odak.txt
+> sızma testi, web ve ağ güvenliği, zafiyet değerlendirmesi
+> güvenlik analizi ve raporlama
+> uygulama güvenliği ve güvenli kod gözden geçirme
+> erişim yönetimi, yetkilendirme ve denetim izi
+> kurumsal sistemlerde güvenli tasarım
+```
+
+### `~/stack`
+
+![PHP](https://img.shields.io/badge/PHP-282A36?style=flat-square&logo=php&logoColor=BD93F9)
+![Laravel](https://img.shields.io/badge/Laravel-282A36?style=flat-square&logo=laravel&logoColor=FF79C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282A36?style=flat-square&logo=postgresql&logoColor=8BE9FD)
+![React](https://img.shields.io/badge/React-282A36?style=flat-square&logo=react&logoColor=8BE9FD)
+![TypeScript](https://img.shields.io/badge/TypeScript-282A36?style=flat-square&logo=typescript&logoColor=BD93F9)
+![Tailwind](https://img.shields.io/badge/Tailwind-282A36?style=flat-square&logo=tailwindcss&logoColor=8BE9FD)
+![C#](https://img.shields.io/badge/C%23-282A36?style=flat-square&logo=csharp&logoColor=BD93F9)
+![.NET](https://img.shields.io/badge/.NET-282A36?style=flat-square&logo=dotnet&logoColor=BD93F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-282A36?style=flat-square&logo=javascript&logoColor=F1FA8C)
+![MongoDB](https://img.shields.io/badge/MongoDB-282A36?style=flat-square&logo=mongodb&logoColor=50FA7B)
+![MySQL](https://img.shields.io/badge/MySQL-282A36?style=flat-square&logo=mysql&logoColor=8BE9FD)
+![Python](https://img.shields.io/badge/Python-282A36?style=flat-square&logo=python&logoColor=F1FA8C)
+![Docker](https://img.shields.io/badge/Docker-282A36?style=flat-square&logo=docker&logoColor=8BE9FD)
+![Linux](https://img.shields.io/badge/Linux-282A36?style=flat-square&logo=linux&logoColor=F8F8F2)
+
+### `~/sertifikalar`
+
+| Sertifika | Veren |
+|---|---|
+| [TSE Kayıtlı Sızma Testi Uzmanı](https://drive.google.com/file/d/1PbMEI6hmSvgW5AhF8mzU2BxulN0lj_K-/view?usp=sharing) | TSE - Türk Standardları Enstitüsü |
+| [ISO/IEC 27001:2013 ISMS Lead Auditor](https://www.credential.net/8f1b3756-83a6-427e-a3b8-66e011c1d088) | Bilgi Güvenliği Yönetim Sistemi |
+| [Zararlı Yazılım Analizi](https://verified.sertifier.com/en/verify/691228324881) | Online Siber Güvenlik Eğitimi |
+| [Siber Güvenlik Uzmanlığı](https://drive.google.com/file/d/1O1Td2XutAzsbM98ggm6UrpJw2qbAqF12/view?usp=sharing) | Cyber Security Expert Certificate |
+| [Siber Güvenlik Analist](https://drive.google.com/file/d/1iFoI4XSejGSG5InkwOwCCL3pr1BpfTbP/view?usp=sharing) | Cyber Security Analyst Certificate |
+| [Network CCNA](https://drive.google.com/file/d/1xLBAGOyzsblLWA-1k_nY-ZMY6Fb0Tib9/view?usp=sharing) | Cisco Certified Network Associate |
+| [ISO 27001 Katılım Belgesi](https://drive.google.com/file/d/1x8rDITC0vQuYGfuPKtBkXyBCH08o-rlY/view?usp=sharing) | Information Security Standard |
+| [KVKK Katılım Belgesi](https://drive.google.com/file/d/1-53ybcnODmCNKUTd2tl8t1KR8bV7_WVH/view?usp=sharing) | Kişisel Verilerin Korunması Kanunu |
+
+### `~/istatistik`
+
+<div align="center">
+
+![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=osmanbarutcu&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36)
+![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbarutcu&layout=compact&theme=dracula&hide_border=true&bg_color=282A36)
+
+![Streak](https://streak-stats.demolab.com/?user=osmanbarutcu&theme=dracula&hide_border=true)
+
+</div>
+
+### `~/iletisim`
+
+<div align="center">
+
+[![Web](https://img.shields.io/badge/osmanbarutcu.com-282A36?style=for-the-badge&logo=googlechrome&logoColor=BD93F9)](https://osmanbarutcu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD)](https://www.linkedin.com/in/osmanbarutcu/)
+[![X](https://img.shields.io/badge/X-282A36?style=for-the-badge&logo=x&logoColor=F8F8F2)](https://twitter.com/osman_brtc)
+
+<sub>$ exit 0</sub>
+
+</div>
