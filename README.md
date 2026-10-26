@@ -6,7 +6,7 @@
 
 <img src="assets/sec-about.svg" alt="hakkımda" width="100%">
 
-Siber güvenlik analiz uzmanı ve yazılım geliştiricisiyim. Isparta Üniversitesi mezunuyum; bilgi güvenliği ve siber güvenlik alanında çalışıyorum. Sızma testi, zafiyet analizi ve raporlama yapıyor, güvenli dijital çözümler geliştiriyorum.
+Siber güvenlik analiz uzmanı ve yazılım geliştiricisiyim. Isparta Üniversitesi mezunuyum; bilgi güvenliği ve siber güvenlik alanında çalışıyorum. Web, ağ ve mobil uygulama güvenliği alanlarında sızma testi, zafiyet analizi ve raporlama yapıyor, güvenli dijital çözümler geliştiriyorum.
 
 <img src="assets/sec-skills.svg" alt="yetkinlikler" width="100%">
 
