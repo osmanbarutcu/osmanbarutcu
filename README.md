@@ -19,10 +19,6 @@ osman@secure:~$ cat odak.txt
 > uygulama güvenliği ve güvenli kod gözden geçirme
 > erişim yönetimi, yetkilendirme ve denetim izi
 > kurumsal sistemlerde güvenli tasarım
-
-osman@secure:~$ cat durum.txt
-> kurumsal bir ERP'yi güvenlik öncelikli geliştiriyorum:
->   fail-closed yetki modeli · hassas veri maskeleme · denetim kayıtları · hata izleme
 ```
 
 ### `~/stack`
